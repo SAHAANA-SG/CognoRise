@@ -3,4 +3,4 @@ This repository contains three AI projects completed during my internship at Cog
 
 Tic-Tac-Toe: A classic game implemented with an AI opponent.
 Digit Recognizer: A model capable of recognizing handwritten digits.
-Sentiment Analysis: A system for determining the sentiment expressed in text.
+Sentiment Analysis: A system for determining the sentiment expressed in text. Here used for classifyting the customer reviews on Amazon Fine Food Products
